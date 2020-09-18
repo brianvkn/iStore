@@ -23,7 +23,7 @@ namespace iStore
         {
             Form childForm = new Form();
             childForm.MdiParent = this;
-            childForm.Text = "Window #" + childFormNumber++;
+            childForm.Text = "Window ##" + childFormNumber++;
             childForm.Show();
         }
 
