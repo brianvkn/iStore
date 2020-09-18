@@ -1,0 +1,10 @@
+I:\Projects\C#\iStore\iStore\iStore\bin\Debug\iStore.exe.config
+I:\Projects\C#\iStore\iStore\iStore\bin\Debug\iStore.exe
+I:\Projects\C#\iStore\iStore\iStore\bin\Debug\iStore.pdb
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.frmMain.resources
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.Properties.Resources.resources
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.csproj.GenerateResource.Cache
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.exe
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.pdb
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.csprojAssemblyReference.cache
+I:\Projects\C#\iStore\iStore\iStore\obj\Debug\iStore.csproj.CoreCompileInputs.cache
